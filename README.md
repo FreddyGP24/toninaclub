@@ -1,2 +1,1 @@
-# toninaclub
-Repositorio para realizar la tarea de toninaclub
+## Versión inicial del proyecto toninaclub
