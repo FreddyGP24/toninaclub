@@ -1,0 +1,21 @@
+0000000000000000000000000000000000000000 4a023720e602a8fff4453a6651fceead0d932fa2 FreddyGP <freddygp1822@gmail.com> 1784081105 -0600	commit (initial): Versión inicial del proyecto toninaclub
+4a023720e602a8fff4453a6651fceead0d932fa2 0000000000000000000000000000000000000000 FreddyGP <freddygp1822@gmail.com> 1784081380 -0600	Branch: renamed refs/heads/main to refs/heads/main
+4a023720e602a8fff4453a6651fceead0d932fa2 4a023720e602a8fff4453a6651fceead0d932fa2 FreddyGP <freddygp1822@gmail.com> 1784081380 -0600	Branch: renamed refs/heads/main to refs/heads/main
+4a023720e602a8fff4453a6651fceead0d932fa2 2382c0a786bdee6108e0f6d97a72744fec257582 FreddyGP <freddygp1822@gmail.com> 1784081540 -0600	pull origin main --rebase (start): checkout 2382c0a786bdee6108e0f6d97a72744fec257582
+2382c0a786bdee6108e0f6d97a72744fec257582 bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b FreddyGP <freddygp1822@gmail.com> 1784081710 -0600	rebase (continue): Versión inicial del proyecto toninaclub
+bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b FreddyGP <freddygp1822@gmail.com> 1784081734 -0600	rebase (finish): returning to refs/heads/main
+bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b FreddyGP <freddygp1822@gmail.com> 1784081810 -0600	checkout: moving from main to develop
+bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b FreddyGP <freddygp1822@gmail.com> 1784090087 -0600	checkout: moving from develop to feature/login
+bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b f29332708f16f4c8d60a3da02ffd68ba4cc86dbf FreddyGP <freddygp1822@gmail.com> 1784090300 -0600	commit: Avance en login
+f29332708f16f4c8d60a3da02ffd68ba4cc86dbf bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b FreddyGP <freddygp1822@gmail.com> 1784090318 -0600	checkout: moving from feature/login to develop
+bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b f29332708f16f4c8d60a3da02ffd68ba4cc86dbf FreddyGP <freddygp1822@gmail.com> 1784090318 -0600	merge feature/login: Fast-forward
+f29332708f16f4c8d60a3da02ffd68ba4cc86dbf f29332708f16f4c8d60a3da02ffd68ba4cc86dbf FreddyGP <freddygp1822@gmail.com> 1784090338 -0600	checkout: moving from develop to develop
+f29332708f16f4c8d60a3da02ffd68ba4cc86dbf f29332708f16f4c8d60a3da02ffd68ba4cc86dbf FreddyGP <freddygp1822@gmail.com> 1784090348 -0600	checkout: moving from develop to release/v1.0.0
+f29332708f16f4c8d60a3da02ffd68ba4cc86dbf bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b FreddyGP <freddygp1822@gmail.com> 1784090369 -0600	checkout: moving from release/v1.0.0 to main
+bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b 5f602f9dc6fe1a9fd0060451b8163f465119e120 FreddyGP <freddygp1822@gmail.com> 1784090369 -0600	merge release/v1.0.0: Merge made by the 'ort' strategy.
+5f602f9dc6fe1a9fd0060451b8163f465119e120 5f602f9dc6fe1a9fd0060451b8163f465119e120 FreddyGP <freddygp1822@gmail.com> 1784090378 -0600	checkout: moving from main to main
+5f602f9dc6fe1a9fd0060451b8163f465119e120 5f602f9dc6fe1a9fd0060451b8163f465119e120 FreddyGP <freddygp1822@gmail.com> 1784090461 -0600	checkout: moving from main to main
+5f602f9dc6fe1a9fd0060451b8163f465119e120 5f602f9dc6fe1a9fd0060451b8163f465119e120 FreddyGP <freddygp1822@gmail.com> 1784090556 -0600	checkout: moving from main to main
+5f602f9dc6fe1a9fd0060451b8163f465119e120 f29332708f16f4c8d60a3da02ffd68ba4cc86dbf FreddyGP <freddygp1822@gmail.com> 1784090729 -0600	checkout: moving from main to develop
+f29332708f16f4c8d60a3da02ffd68ba4cc86dbf bcf34b91607d06a91e04d144cacfd6c7f6b523d8 FreddyGP <freddygp1822@gmail.com> 1784090730 -0600	merge 1.0v1.0.0: Merge made by the 'ort' strategy.
+bcf34b91607d06a91e04d144cacfd6c7f6b523d8 4b12ca35e794d175e0238ee9498d12a141ed7d6b FreddyGP <freddygp1822@gmail.com> 1784098835 -0600	commit: Aplicación del Web Service

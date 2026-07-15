@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 4a023720e602a8fff4453a6651fceead0d932fa2 FreddyGP <freddygp1822@gmail.com> 1784081105 -0600	commit (initial): Versión inicial del proyecto toninaclub
+4a023720e602a8fff4453a6651fceead0d932fa2 4a023720e602a8fff4453a6651fceead0d932fa2 FreddyGP <freddygp1822@gmail.com> 1784081380 -0600	Branch: renamed refs/heads/main to refs/heads/main
+4a023720e602a8fff4453a6651fceead0d932fa2 bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b FreddyGP <freddygp1822@gmail.com> 1784081734 -0600	rebase (finish): refs/heads/main onto 2382c0a786bdee6108e0f6d97a72744fec257582
+bbbac06b9bbf73e0cbd7cd756a6a601dd340f91b 5f602f9dc6fe1a9fd0060451b8163f465119e120 FreddyGP <freddygp1822@gmail.com> 1784090369 -0600	merge release/v1.0.0: Merge made by the 'ort' strategy.
